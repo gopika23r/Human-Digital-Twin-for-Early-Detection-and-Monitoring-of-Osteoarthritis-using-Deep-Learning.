@@ -1,0 +1,19 @@
+Osteoarthritis_DigitalTwin/
+│
+├── dataset/
+│   ├── train/
+│   ├── test/
+│
+├── model/
+│   └── osteoarthritis_model.h5          # (after training)
+│
+├── code/
+│   ├── 1_data_preprocessing.ipynb
+│   ├── 2_train_model.ipynb
+│   ├── 3_gradcam_visualization.ipynb
+│
+├── outputs/
+│   ├── sample_mri.png
+│   ├── gradcam_result.png
+│
+└── README.md
